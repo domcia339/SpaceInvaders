@@ -1,0 +1,11 @@
+WIDTH=640
+HEIGHT=480
+enemyPoints1=10
+enemyPoints2=30
+enemyPoints3=50
+enemyPointsspecial=100
+downEnemies=10
+lives=20
+heart=500
+speed=2
+speedanimation=2
